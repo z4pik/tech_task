@@ -7,6 +7,7 @@
 1. Клонируйте репозиторий: `git clone`
 2. Установите зависимости: `pip install -r requirements.txt`
 3. Выполните миграции: `python manage.py migrate`
+4. Создать админа: `python manage.py createsuperuser`
 
 ## Запуск
 
